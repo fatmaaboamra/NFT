@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Outfit:wght@300;400;600;700&family=Work+Sans:wght@300;400;600&display=swap');
+
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Work Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.contauiner{
+    width: 350px;
+  
+
+}
+.equilibrium{
+    max-width: 100%;
+}
